@@ -1,7 +1,8 @@
 # data_structures
 
-Stack
-Queue
+Stack  
+Queue  
+Heap  
 Linked List
 Doubly Linked List
 Bubble Sort
